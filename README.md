@@ -1,16 +1,16 @@
 <!-- Profilo GitHub - README -->
 
-# Data Science enthusiast - Creative and curiosity driven
+## Data Science enthusiast - Creative and curiosity driven
 
 ---
 
-## Focus attuale
--  Data Analysis (Python, EDA, visualizzazioni)
+### Focus
+-  Data Analysis
 -  Data Science
 -  Learning 
 ---
 
-## Tech stack
+### Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +23,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
 ---
 
-## 🧪 Progetti in evidenza
+### Progetti in evidenza
 - **safEATy** — database per la gestione allergeni (analisi requisiti → E/R → schema relazionale → query SQL)  
   `#database` `#sql` `#progettazione` `#inclusività`
 
@@ -32,13 +32,8 @@
 
 ---
 
-## 📌 Nota sul mio stile
+### 📌 Nota sul mio stile
 Preferisco soluzioni **chiare**, **riproducibili**, e con un minimo di buon senso. 😄
 
 ---
-
-## 📈 Stat
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LP-fw&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LP-fw&layout=compact)
-
 
