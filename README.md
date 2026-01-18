@@ -27,17 +27,23 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ---
 
-### Progetti in evidenza
-- **safEATy** — database per la gestione allergeni (analisi requisiti → E/R → schema relazionale → query SQL)  
-  `#database` `#sql` `#progettazione` `#inclusività`
+### Main Projects
 
-- **EDA mini-project** su dataset sui salari in ambito Tech  
-  `#python` `#pandas` `#dataviz`
+#### SafEATy  
+**Database system for allergen management**  
+Requirements analysis → E/R model → Relational schema → SQL queries  
+
+#### EDA Mini Project — Tech Salaries  (Data Camp competition Ranked #16/1300)
+Exploratory data analysis on a tech salaries dataset, focusing on:
+- distributions  
+- outliers  
+- differences by role and region  
 
 ---
 
-### 📌 Nota sul mio stile
-Preferisco soluzioni **chiare**, **riproducibili**, e con un minimo di buon senso. 😄
+### 📌 About my approach
+I prefer **clear**, **reproducible** solutions with a bit of **common sense**.  
+If something looks unbeliaveble, it probably needs a better explanation. 😄
 
 ---
 
