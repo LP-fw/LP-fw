@@ -38,7 +38,7 @@ Preferisco soluzioni **chiare**, **riproducibili**, e con un minimo di buon sens
 ---
 
 ## 📈 Stat
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUOUSERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LP-fw&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LP-fw&layout=compact)
 
 
