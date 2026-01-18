@@ -8,7 +8,7 @@
 -  Learning 
 ---
 
-### Tech stack
+## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -25,7 +25,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-#### Just for fun
+##### Just for fun
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000000) 
 
 ---
@@ -50,8 +50,8 @@ Exploratory data analysis on a tech salaries dataset
 
 ---
 
-### 📌 About my approach
-I prefer **clear**, **reproducible** solutions with a bit of **common sense**.  
+### About my approach
+I prefer clear and reproducible solutions with a bit of common sense.  
 If something looks unbeliaveble, it probably needs a better explanation. 😄
 
 ---
