@@ -2,8 +2,6 @@
 
 ## Data Science enthusiast - Creative and curiosity driven
 
----
-
 ### Focus
 -  Data Analysis
 -  Data Science
@@ -21,7 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=000000)
 
-### 📚 basics
+### 📚 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -29,15 +27,21 @@
 
 ### Main Projects
 
+#### Jailbreaking&LLMs: classifier for safe vs malicious prompts
+The goal of this project is to analyze a dataset of prompts and build a classifier capable of distinguishing between **safe** and **malicious** prompts.  
+Two approaches are compared:
+- a **statistical feature-based approach**
+- a **semantic approach based on embeddings**
+
+The project focuses on understanding the strengths and limitations of each method when applied to prompt classification.
+
+
 #### SafEATy  
 **Database system for allergen management**  
 Requirements analysis → E/R model → Relational schema → SQL queries  
 
-#### EDA Mini Project — Tech Salaries  (Data Camp competition Ranked #16/1300)
-Exploratory data analysis on a tech salaries dataset, focusing on:
-- distributions  
-- outliers  
-- differences by role and region  
+#### EDA Mini Project — Tech Salaries  (DataCamp competition-Ranked 6th out of 1881 participants 🏆)
+Exploratory data analysis on a tech salaries dataset  
 
 ---
 
