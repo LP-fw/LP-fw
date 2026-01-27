@@ -51,8 +51,8 @@ Exploratory data analysis on a tech salaries dataset
 ---
 
 ### About my approach
-I prefer clear and reproducible solutions with a bit of common sense.  
-If something looks unbeliaveble, it probably needs a better explanation. 😄
+I'm very creative, but grounded and I prefer clear, reproducible solutions backed by common sense.
+If something sounds unbelievable, it probably needs a better explanation. 😄
 
 ---
 
