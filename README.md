@@ -5,6 +5,7 @@
 ### Focus
 -  Data Analysis
 -  Data Science
+-  Curious about AI Security 
 -  Learning 
 ---
 
