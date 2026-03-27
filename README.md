@@ -2,10 +2,10 @@
 
 ## Data Science enthusiast - Creative and curiosity driven
 
-### Focus
+### Focus 
 -  Data Analysis
 -  Data Science
--  Curious about AI Security 
+-  AI Security 
 -  Learning 
 ---
 
